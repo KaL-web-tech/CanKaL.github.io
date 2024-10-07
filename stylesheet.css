@@ -10,3 +10,15 @@ body {
 a {
   text-decoration: none;
 }
+
+
+.characters {
+
+  width: 100%;
+}
+
+.character {
+  margin: 10px;
+}
+
+  
