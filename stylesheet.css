@@ -19,7 +19,7 @@ header {
   top: 0px;
   left: 0px;
   z-index: 10;
-  box-shadow: rgba(51, 31, 35, 0.5);
+  box-shadow:  0px 5px rgba(51, 31, 35, 0.5);
 }
 
 .header-logo {
@@ -30,9 +30,8 @@ header {
 
 .copy-content {
   text-align: center;
-  height: 100px
   margin-top: 100px;
-  color: white
+  color: white;
   background-img: url();
 }
 
@@ -65,7 +64,6 @@ header {
   background-color: white;
   margin: 10px;
   width: 20%;
-  box-shadow:5px 5px black;
   height: 400px;
   border-radius: 5px;
   display: column;
