@@ -115,10 +115,18 @@ header {
   border-radius: 10px;
 }
 
-.name {
+.chara p {
   text-align: center;
   font-size: 20px;
   margin: 0px;
   padding: 10px 0;
 }
 
+.scenario span {
+  font-size:12px;
+  color:white;
+  padding:5px;
+  border-radius:20px;
+  background-color:green;
+  margin:5px;
+}
