@@ -11,6 +11,16 @@ a {
   text-decoration: none;
 }
 
+.header {
+  background-color: white;
+  height: 80px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 10;
+}
+
+
 .container {
   width: 1170px;
   background-color: rgb(108, 39, 53);
