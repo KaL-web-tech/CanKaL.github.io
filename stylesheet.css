@@ -30,7 +30,7 @@ header {
 }
 
 .header-list ul {
-  float: left;
+  display: flex;
 }
 
 .li {
@@ -38,6 +38,7 @@ header {
   color: black;
   padding: 20px 20px;
   font-size: 20px;
+  text-align: center;
 }
 
 
