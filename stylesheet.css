@@ -29,6 +29,10 @@ header {
   width: 130px;
 }
 
+.header-list {
+  width: 250px;
+}
+
 .header-list ul {
   display: flex;
   position: absolute;
