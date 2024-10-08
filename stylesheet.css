@@ -29,7 +29,7 @@ header {
   padding-top: 20px;
 }
 
-.header-list {
+.header-list ul {
   float: left;
 }
 
@@ -45,8 +45,9 @@ header {
 
 
 .copy-content {
-  background-img: url(https://github.com/user-attachments/assets/119d4828-9488-43af-92dc-c4e94fe26eea);
+  background-img:url(https://github.com/user-attachments/assets/119d4828-9488-43af-92dc-c4e94fe26eea);
   background-size: cover;
+  background-color: black;
   margin: 0 auto;
   text-align: center;
   color: white;
