@@ -40,7 +40,7 @@ header {
   right:20px;
 }
 
-.li {
+.header-list li {
   list-style: none;
   color: black;
   padding: 20px 20px;
