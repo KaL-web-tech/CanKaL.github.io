@@ -68,7 +68,7 @@ header {
 .chara-box {
 
   width: 25%;
-  height:400px;
+  height:430px;
   padding: 5px;
 }
 
@@ -83,7 +83,6 @@ header {
   width: 220px;
   height: 220px;
   margin: 0 auto;
-  padding:10px;
 }
 
 .chara a {
@@ -91,7 +90,7 @@ header {
   width: 100%;
   padding: 10px;
   text-align:center;
-  margin-top: 10px;
+  margin-top: 20px;
   transition: all 1s;
 }
 
