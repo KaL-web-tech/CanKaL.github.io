@@ -33,9 +33,11 @@ a {
 }
 
 .chara {
+  background-color: white;
   margin: 10px;
   float: left;
   width: 25%;
+  box-shadow:5px 5px black;
 }
 
 .chara img {
