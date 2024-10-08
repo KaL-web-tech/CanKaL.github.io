@@ -31,22 +31,19 @@ header {
 
 .header-list {
   width: 250px;
-}
-
-.header-list ul {
   display: flex;
   position: absolute;
   top:5px;
   right:20px;
 }
 
-.header-list li {
-  list-style: none;
+.header-list a {
+  display: inline-block;
   color: black;
   padding: 20px 20px;
   font-size: 20px;
   text-align: center;
-  margin: 0px 15px;
+  margin: 20px;
 }
 
 
