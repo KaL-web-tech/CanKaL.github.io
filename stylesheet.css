@@ -29,17 +29,17 @@ header {
 }
 
 .copy-content {
+  margin: 0 auto;
   text-align: center;
+  color: white;
   width: 1170px;
   height: 500px;
   font-size: 40px;
+  padding-top: 100px;
   background-img: url(https://github.com/user-attachments/assets/119d4828-9488-43af-92dc-c4e94fe26eea);
   background-size: cover;
 }
 
-.copy-content h1{
-  color: white;
-}
 
 .container {
   width: 1170px;
@@ -65,11 +65,14 @@ header {
   flex-wrap: wrap;
 }
 
+.chara-box {
+
+  width: 25%;
+  height:400px;
+}
+
 .chara {
   background-color: white;
-  margin: 10px;
-  width: 20%;
-  height: 400px;
   border-radius: 5px;
   display: column;
 }
