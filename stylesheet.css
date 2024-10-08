@@ -28,6 +28,10 @@ header {
   padding-top: 20px;
 }
 
+.header-list ul {
+  
+}
+
 .copy-content {
   margin: 0 auto;
   text-align: center;
@@ -76,6 +80,7 @@ header {
   background-color: white;
   border-radius: 5px;
   display: column;
+  height: 90%;
 }
 
 .chara img {
