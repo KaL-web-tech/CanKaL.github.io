@@ -89,7 +89,7 @@ header {
 .chara-box {
 
   width: 25%;
-  height:380px;
+  height: 400px;
   padding: 5px;
 }
 
@@ -98,13 +98,13 @@ header {
   border-radius: 5px;
   height: 100%;
   margin: 0 auto;
+  padding: 20px 0;
 }
 
 .chara img {
   display: block;
   width: 220px;
   height: 220px;
-  padding: 20px;
   margin: 0 auto;
 }
 
