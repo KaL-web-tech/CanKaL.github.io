@@ -115,6 +115,8 @@ header {
 
 .chara-icon img {
   object-fit: contain;
+  width: 220px;
+  height: 220px;
 }
 
 .chara a {
