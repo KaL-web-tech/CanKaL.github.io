@@ -17,9 +17,10 @@ a {
   margin: 0 auto;
 }
 
-.title {
+.title-text {
   color: white;
   border-bottom: 2px solid white;
+  padding: 15px;
 
 }
 
@@ -42,6 +43,7 @@ a {
   width: 80%;
   padding: 20px;
   height: 60%;
+  text-align: center;
 }
 
 .chara a {
