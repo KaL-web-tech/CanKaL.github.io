@@ -126,6 +126,8 @@ header {
   font-size: 20px;
   border-bottom:1px solid rgb(107, 64, 73);
   padding: 15px 0px;
+  margin: 0 auto;
+  height: 45px
 }
 
 .scenario {
@@ -136,8 +138,9 @@ header {
 .scenario span {
   font-size:10px;
   color:white;
-  padding:3px;
+  padding:0px 3px;
   border-radius:20px;
   background-color:green;
   margin-right:5px;
+  text-align: center;
 }
