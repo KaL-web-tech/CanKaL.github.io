@@ -11,6 +11,11 @@ a {
   text-decoration: none;
 }
 
+.container {
+  width: 1170px;
+  background-color: rgb(108, 39, 53);
+}
+
 
 .characters {
 
