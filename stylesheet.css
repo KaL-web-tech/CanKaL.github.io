@@ -26,7 +26,14 @@ header {
   height: 100%;
   margin-left: 20px;
   padding-top: 20px;
+}
+
+.copy-content {
   text-align: center;
+  height: 100px
+  margin-top: 100px;
+  color: white
+  background-img: url();
 }
 
 
@@ -34,6 +41,7 @@ header {
   width: 1170px;
   background-color: rgb(108, 39, 53);
   margin: 0 auto;
+  padding: 20px 10px;
 }
 
 .title-text {
