@@ -85,7 +85,7 @@ header {
 .characters {
   background-color: rgb(107, 64, 73); 
   padding: 20px;
-  height: 1170px;
+  height: 3500px;
   display: flex;
   flex-wrap: wrap;
 }
