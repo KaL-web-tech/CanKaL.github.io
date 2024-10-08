@@ -23,6 +23,8 @@ header {
 .header-logo {
   height: 100%;
   margin-left: 20px;
+  padding-top: 20px;
+  text-align: center;
 }
 
 
@@ -35,6 +37,8 @@ header {
 .title-text {
   color: white;
   border-bottom: 2px solid white;
+  margin-top:20px;
+  margin-left:20px;
 
 }
 
