@@ -13,13 +13,13 @@ a {
 
 header {
   background-color: white;
-  height: 80px;
+  height: 70px;
   width: 100%;
   position: fixed;
   top: 0px;
   left: 0px;
   z-index: 10;
-  box-shadow:  0px 5px rgba(51, 31, 35, 0.5);
+  box-shadow:  0px 3px rgba(51, 31, 35, 0.5);
 }
 
 .header-logo {
@@ -32,7 +32,9 @@ header {
   text-align: center;
   margin-top: 100px;
   color: white;
-  background-img: url();
+  background-img: url(https://github.com/user-attachments/assets/119d4828-9488-43af-92dc-c4e94fe26eea);
+  background-size: cover;
+  height: 200px;
 }
 
 
