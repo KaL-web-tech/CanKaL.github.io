@@ -30,13 +30,14 @@ header {
 
 .copy-content {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 180px;
   color: white;
+  height: 200px;
+  padding: 100px;
+  font-size: 50px;
   background-img: url(https://github.com/user-attachments/assets/119d4828-9488-43af-92dc-c4e94fe26eea);
   background-size: cover;
-  height: 200px;
 }
-
 
 .container {
   width: 1170px;
