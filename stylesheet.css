@@ -58,6 +58,8 @@ header {
   margin: 10px;
   width: 25%;
   box-shadow:5px 5px black;
+  height: 400px;
+  display: column;
 }
 
 .chara img {
