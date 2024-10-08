@@ -14,10 +14,12 @@ a {
 header {
   background-color: white;
   height: 80px;
+  width: 1170px;
   position: fixed;
   top: 0px;
   left: 0px;
   z-index: 10;
+  box-shadow: rgba(51, 31, 35, 0.5);
 }
 
 .header-logo {
