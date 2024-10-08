@@ -40,10 +40,13 @@ header {
 .header-list a {
   display: inline-block;
   color: black;
-  padding: 27px 10px;
+  padding: 18px 20px;
   font-size: 20px;
   text-align: center;
+  height: 100%;
+  border-left: 1px solid black;
 }
+
 
 
 
