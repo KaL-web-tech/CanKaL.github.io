@@ -115,18 +115,24 @@ header {
 
 .chara a:hover {
   background-color: rgba(108, 39, 53, 0.5);
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
-.chara p {
+.name {
   text-align: center;
   font-size: 20px;
-  margin: 0px;
-  padding: 10px 0;
+  height:30px;
+  border-bottom:1px solid rgb(107, 64, 73);
+}
+
+.scenario {
+  height: 20px;
+  font-size:16px;
+  padding: 2px;
 }
 
 .scenario span {
-  font-size:12px;
+  font-size:10px;
   color:white;
   padding:5px;
   border-radius:20px;
