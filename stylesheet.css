@@ -33,8 +33,7 @@ header {
   float: left;
 }
 
-.header-list li {
-  display: inline-block;
+.li {
   list-style: none;
   color: black;
   padding: 20px 20px;
@@ -100,6 +99,7 @@ header {
   width: 220px;
   height: 220px;
   padding: 20px;
+  margin: 0 auto;
 }
 
 .chara a {
