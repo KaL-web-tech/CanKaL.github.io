@@ -36,7 +36,10 @@ header {
 .header-list li {
   color: black;
   padding: 20px 20px;
+  list-style: none;
 }
+
+
 
 
 .copy-content {
