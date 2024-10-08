@@ -82,7 +82,7 @@ header {
 .chara-box {
 
   width: 25%;
-  height:430px;
+  height:380px;
   padding: 5px;
 }
 
@@ -90,14 +90,15 @@ header {
   background-color: white;
   border-radius: 5px;
   display: column;
-  height: 90%;
+  height: 100%;
+  margin: 0 auto;
 }
 
 .chara img {
   display: block;
   width: 220px;
   height: 220px;
-  margin: 0 auto;
+  margin: 20px;
 }
 
 .chara a {
@@ -105,7 +106,6 @@ header {
   width: 100%;
   padding: 10px;
   text-align:center;
-  margin-top: 20px;
   transition: all 1s;
 }
 
