@@ -47,6 +47,10 @@ header {
   border-left: 1px solid black;
 }
 
+.header-list a:hover {
+  opasity: 1.0;
+  transition: all 1s;
+}
 
 
 
