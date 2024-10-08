@@ -105,11 +105,16 @@ header {
   padding: 20px 0;
 }
 
-.chara img {
+.chara-icon {
   display: block;
   width: 220px;
   height: 220px;
   margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.chara-icon img {
+  object-fit: contain;
 }
 
 .chara a {
