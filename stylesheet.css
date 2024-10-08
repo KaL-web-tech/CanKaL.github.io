@@ -56,7 +56,8 @@ header {
 
 
 .copy-content {
-  background-img:url();
+  background-image: url(https://github.com/user-attachments/assets/119d4828-9488-43af-92dc-c4e94fe26eea);
+  background-size: cover;
   margin: 0 auto;
   text-align: center;
   color: white;
