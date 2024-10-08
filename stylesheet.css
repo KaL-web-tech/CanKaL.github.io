@@ -89,7 +89,7 @@ header {
 .chara-box {
 
   width: 25%;
-  height: 400px;
+  height: 420px;
   padding: 5px;
 }
 
@@ -124,14 +124,15 @@ header {
 .name {
   text-align: center;
   font-size: 20px;
-  height:30px;
   border-bottom:1px solid rgb(107, 64, 73);
+  padding: 15px 0px;
 }
 
 .scenario {
   height: 20px;
   font-size:16px;
   padding: 2px;
+  text-align: center;
 }
 
 .scenario span {
@@ -140,5 +141,5 @@ header {
   padding:5px;
   border-radius:20px;
   background-color:green;
-  margin:5px;
+  margin-right:5px;
 }
