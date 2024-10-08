@@ -22,8 +22,16 @@ a {
   float: left;
 }
 
-.characters img {
+.chara img {
+  display: block;
   width: 80%;
   padding: 20px;
+}
+
+.chara a {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
 }
   
