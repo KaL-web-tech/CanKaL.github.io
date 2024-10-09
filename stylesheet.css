@@ -28,6 +28,10 @@ header {
   padding-top: 20px;
   width: 130px;
 }
+.header-logo img {
+  object-fit: cover;
+  width: 130px;
+}
 
 .header-list {
   width: 250px;
@@ -125,6 +129,7 @@ header {
   margin-top: 10px;
   text-align:center;
   transition: all 1s;
+  color: red;
 }
 
 .chara a:hover {
