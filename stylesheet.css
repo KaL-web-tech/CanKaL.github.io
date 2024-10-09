@@ -12,7 +12,7 @@ a {
 }
 
 header {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(173, 0, 3, 0.9);
   height: 70px;
   width: 100%;
   position: fixed;
@@ -60,12 +60,11 @@ header {
 
 
 .copy-content {
-  background-image: url(https://github.com/user-attachments/assets/119d4828-9488-43af-92dc-c4e94fe26eea);
   background-size: cover;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(254, 221, 107, 1.0);
   margin: 0 auto;
   text-align: center;
-  color: white;
+  color: rgb(173, 0, 3);
   width: 1170px;
   height: 500px;
   font-size: 40px;
@@ -75,21 +74,21 @@ header {
 
 .container {
   width: 1170px;
-  background-color: rgb(108, 39, 53);
+  background-color: rgb(173, 0, 3);
   margin: 0 auto;
   padding: 20px 10px;
 }
 
 .title-text {
-  color: white;
-  border-bottom: 2px solid white;
+  color: rgb(254, 221, 107);
+  border-bottom: 2px solid rgb(254. 221, 107);
   padding-left:20px;
 
 }
 
 
 .characters {
-  background-color: rgb(107, 64, 73); 
+  background-color: rgb(173, 0, 3); 
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
@@ -104,6 +103,7 @@ header {
 
 .chara {
   background-color: white;
+  color: rgb(173, 0, 3);
   border-radius: 5px;
   height: 100%;
   margin: 0 auto;
@@ -140,7 +140,7 @@ header {
 .name {
   text-align: center;
   font-size: 20px;
-  border-bottom:1px solid rgb(107, 64, 73);
+  border-bottom:1px solid rgb(173, 0, 3);
   padding: 15px 0px;
   margin: 0 auto;
 }
@@ -155,7 +155,7 @@ header {
   color:white;
   padding:0px 3px;
   border-radius:20px;
-  background-color:green;
+  background-color:rgb(173, 0, 3);
   margin-right:5px;
   text-align: center;
 }
