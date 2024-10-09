@@ -74,14 +74,14 @@ header {
 
 .container {
   width: 1170px;
-  background-color: rgb(235, 216, 128);
+  background-color: rgb(0, 151, 155);
   margin: 0 auto;
   padding: 20px 10px;
 }
 
 .title-text {
   color: rgb(0, 151, 155);
-  border-bottom: 2px solid rgb(254, 221, 107);
+  border-bottom: 2px solid rgb();
   padding-left:20px;
 
 }
