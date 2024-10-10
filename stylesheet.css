@@ -106,14 +106,10 @@ header {
   padding: 5px;
   
   @media(max-width:1000px) {
-    .chara-box {
-      width: 50%;
-    }
+    width: 50%;
   }
   @media(max-width:670px) {
-    .chara-box {
-      width: 100%;
-    }
+    width: 100%;
   }
 
 }
