@@ -73,6 +73,7 @@ header {
 
 
 .container {
+  max-width: 1170px;
   width: 100%;
   background-color: rgb(192, 54, 25);
   margin: 0 auto;
