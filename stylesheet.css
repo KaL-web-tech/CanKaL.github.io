@@ -27,6 +27,7 @@ header {
   margin-left: 20px;
   padding-top: 20px;
   width: 130px;
+
 }
 .header-logo img {
   object-fit: cover;
@@ -39,6 +40,9 @@ header {
   position: absolute;
   top:5px;
   right:20px;
+  @media(max-width: 670px) {
+    display: none;
+  }
 }
 
 .header-list a {
@@ -69,6 +73,10 @@ header {
   height: 500px;
   font-size: 40px;
   padding-top: 100px;
+  @media(max-width: 670px;) {
+    font-size: 30px;
+    text-align: left;
+  }
 }
 
 
@@ -157,11 +165,18 @@ header {
   border-bottom:2px solid rgb(235, 216, 128);
   padding: 15px 0px;
   margin: 0 auto;
+  @media(max-width: 670px;) {
+    font-size: 30px;
+    font-weight: normal;
+  }
 }
 
 .scenario {
   font-size:16px;
   text-align: center;
+  @media(max-width: 670px;) {
+    font-size: 25px;
+  }
 }
 
 .scenario span {
