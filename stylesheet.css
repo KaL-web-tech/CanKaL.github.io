@@ -99,6 +99,19 @@ header {
   width: 25%;
   height: 420px;
   padding: 5px;
+  @media(max-width:1000px) {
+  .chara-box {
+    width: 50%;
+  }
+
+}
+
+
+@media(max-width:670px) {
+  .chara-box {
+    width: 100%;
+  }
+}
 }
 
 .chara {
@@ -162,16 +175,4 @@ header {
 }
 
 
-@media(max-width:1000px) {
-  .chara-box {
-    width: 50%;
-  }
 
-}
-
-
-@media(max-width:670px) {
-  .chara-box {
-    width: 100%;
-  }
-}
