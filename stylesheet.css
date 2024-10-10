@@ -101,6 +101,7 @@ header {
   display: flex;
   flex-wrap: wrap;
   margin:0 auto;
+  max-width:1170px;
   @media(max-width: 670px) {
     width: 100%;
     flex-direction: column;
