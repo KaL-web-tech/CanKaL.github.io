@@ -160,3 +160,18 @@ header {
   margin-right:5px;
   text-align: center;
 }
+
+
+@media(max-width:1000px) {
+  .chara-box {
+    width: 50%;
+  }
+
+}
+
+
+@media(max-width:670px) {
+  .chara-box {
+    width: 100%;
+  }
+}
