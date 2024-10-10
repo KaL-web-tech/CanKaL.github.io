@@ -81,7 +81,7 @@ header {
 
 .title-text {
   color: rgb(235, 216, 128);
-  border-bottom: 2px solid rgb(235, 216, 128);
+  font-size: 28px;
   padding-left:20px;
 
 }
