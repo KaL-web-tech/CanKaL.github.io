@@ -1,4 +1,9 @@
-@media(max-width:)
+@media(max-width:1000px) {
+  .chara-box {
+    width: 50%;
+  }
+
+}
 
 
 @media(max-width:670px) {
