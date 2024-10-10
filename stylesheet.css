@@ -39,6 +39,9 @@ header {
   position: absolute;
   top:5px;
   right:20px;
+  @media(max-width: 670px;) {
+    display: none;
+  }
 }
 
 .header-list a {
