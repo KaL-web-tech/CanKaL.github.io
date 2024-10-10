@@ -87,12 +87,16 @@ header {
 
 
 .characters {
-  max-width: 1170px;
-  width: 100%;
+
   background-color: rgb(235, 216, 128); 
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
+  margin:0 auto;
+  @media(max-width: 670px) {
+    width: 100%;
+    flex-direction: column;
+  }
 }
 
 .chara-box {
@@ -100,22 +104,20 @@ header {
   width: 25%;
   height: 420px;
   padding: 5px;
+  
   @media(max-width:1000px) {
-  .chara-box {
-    width: 50%;
+    .chara-box {
+      width: 50%;
+    }
   }
+  @media(max-width:670px) {
+    .chara-box {
+      width: 100%;
+    }
   }
 
-
-
-
-@media(max-width:670px) {
-  .chara-box {
-    width: 100%;
-  }
 }
 
-}
 .chara {
   background-color: white;
   color: rgb(192, 54, 25);
